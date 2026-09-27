@@ -150,7 +150,8 @@ activemq-data/
 # Environments
 .env
 .envrc
-.venv
+.venv/
+.ipynb_checkpoints/
 env/
 venv/
 ENV/
