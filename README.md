@@ -90,7 +90,6 @@ Es la única estación de la NOAA en un radio de unos 100 km alrededor de Iquito
 
 ## ⚠️ Limitaciones
 
-- **El análisis muestra cuándo hace más calor, no cuándo hay más ventas o reparaciones.** Validar la relación entre calor y demanda requeriría cruzar estos datos con registros reales de un negocio.
 - La estación está en el aeropuerto, a unos 7 km del centro de la ciudad, por lo que puede no reflejar el efecto de isla de calor urbana.
 - Algunas horas de 2022–2024 registran puntos de rocío de 28–29 °C, inusualmente altos. Se conservaron porque aparecen agrupados en días consecutivos y en horas lógicas, lo que sugiere un evento real y no un error.
 - La detección de picos compara cada hora con la fila vecina; si falta una hora, la comparación se hace con un registro más distante.
